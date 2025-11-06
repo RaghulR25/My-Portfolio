@@ -1,5 +1,5 @@
 import React from "react";
-import { MapPin, MailIcon } from "lucide-react";
+import { MapPin, MailIcon, PhoneCallIcon } from "lucide-react";
 
 const Contact = () => {
   return (
@@ -28,6 +28,10 @@ const Contact = () => {
             >
               rraghul2k3@gmail.com
             </a>
+          </div>
+          <div className="flex items-center gap-3 text-gray-700">
+            <PhoneCallIcon className="text-indigo-600 w-6 h-6" />
+           <h1 className="font-bold"> 7904492354</h1>
           </div>
         </div>
 
