@@ -3,7 +3,7 @@ import { MapPin, MailIcon } from "lucide-react";
 
 const Contact = () => {
   return (
-    <section id="contact" className="scroll-mt-20 py-12 bg-gray-50">
+    <section id="contact" className="scroll-mt-20 py-12 bg-indigo-50">
       <h1 className="font-extrabold text-4xl sm:text-5xl text-center mt-6">
         Get In<span className="text-indigo-600"> Touch</span>
       </h1>

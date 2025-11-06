@@ -15,7 +15,7 @@ const skills = [
 
 const MySkill = () => {
   return (
-    <section id="skills" className="scroll-mt-20 py-20 bg-gray-50">
+    <section id="skills" className="scroll-mt-20 py-20 bg-indigo-50">
       <h1 className="text-4xl sm:text-5xl font-bold text-center mb-5">
         My <span className="text-indigo-600">Skills</span>
       </h1>
