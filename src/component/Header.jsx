@@ -5,7 +5,7 @@ const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false);
   const toggleMenu = () => setMenuOpen(!menuOpen);
 
-  const navItems = ["Home", "About", "Skills", "Project", "Contact"];
+  const navItems = ["Home", "About", "Skills", "Projects", "Contact"];
 
   return (
     <header className="bg-gray-800 p-4 shadow-lg fixed w-full top-0 left-0 z-50">
