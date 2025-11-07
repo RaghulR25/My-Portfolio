@@ -13,7 +13,7 @@ const projects = [
     description:
       "An e-commerce web app frontend for product browsing, cart management, and responsive UI design.",
     tech: ["React", "Redux", "TailwindCSS"],
-    link: "https://effulgent-blini-29ac59.netlify.app/",
+    link: "https://bright-kleicha-fe63c8.netlify.app/",
   },
   {
     title: "Note Manager",
