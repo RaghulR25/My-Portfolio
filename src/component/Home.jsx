@@ -18,7 +18,7 @@ const HeroSection = () => {
         {/* Buttons */}
         <div className="flex flex-wrap items-center justify-center gap-4 mb-10">
           <a
-            href="https://drive.google.com/file/d/1fcuIjgPGosjvy09d1jMQxkjcTYg5IPXp/view?usp=sharing"
+            href="https://drive.google.com/file/d/1biRedxqgas_v2SJdzsD2RNeozKtQvazY/view?usp=drivesdk "
             target="_blank"
             rel="noopener noreferrer"
           >
