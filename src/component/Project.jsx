@@ -22,27 +22,7 @@ const projects = [
     tech: ["React", "JavaScript", "TailwindCSS","Node.js","Express","MongoDB"],
     link: "https://bright-kleicha-fe63c8.netlify.app/",
   },
-  {
-    title: "Note Manager",
-    description:
-      "A React-based note management app with CRUD features and local storage integration for saving notes.",
-    tech: ["React", "JavaScript", "TailwindCSS"],
-    link: "https://serene-salmiakki-dddb4a.netlify.app/",
-  },
-  {
-    title: "Movie Search App",
-    description:
-      "A movie search application that fetches data from an API and displays movie details with a smooth UI.",
-    tech: ["React", "API", "TailwindCSS"],
-    link: "https://soft-tapioca-7438aa.netlify.app/",
-  },
-  {
-    title: "Smart Expense Tracker",
-    description:
-      "A personal finance tracker to manage income and expenses efficiently with filtering and analytics features.",
-    tech: ["React", "JavaScript", "TailwindCSS"],
-    link: "https://courageous-jelly-30e8e6.netlify.app/",
-  },
+ 
 ];
 
 const Project = () => {
