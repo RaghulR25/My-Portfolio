@@ -9,10 +9,17 @@ const projects = [
     link: "https://o-on.netlify.app/",
   },
   {
+    title: "Movie Booking App",
+    description:
+      "A MERN stack movie booking application with user authentication, movie listings, and booking features.",
+    tech: ["React", "JavaScript", "TailwindCSS","Node.js","Express","MongoDB"],
+    link: "https://unrivaled-empanada-63b6fb.netlify.app/",
+  },
+  {
     title: "E-Commerce Platform",
     description:
       "An e-commerce web app frontend for product browsing, cart management, and responsive UI design.",
-    tech: ["React", "Redux", "TailwindCSS"],
+    tech: ["React", "JavaScript", "TailwindCSS","Node.js","Express","MongoDB"],
     link: "https://bright-kleicha-fe63c8.netlify.app/",
   },
   {
